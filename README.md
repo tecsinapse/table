@@ -1,7 +1,8 @@
 # Iniciando
 
-[![Build Status](https://travis-ci.org/tecsinapse/table.svg?branch=master)](https://travis-ci.org/tecsinapse/table)
+Moved to https://github.com/tecsinapse/ui-kit
 
+[![Build Status](https://travis-ci.org/tecsinapse/table.svg?branch=master)](https://travis-ci.org/tecsinapse/table)
 
 
 ***@tecsinapse/table*** é uma biblioteca contendo componente de tabela para facilitar a vida do dev react ;)
